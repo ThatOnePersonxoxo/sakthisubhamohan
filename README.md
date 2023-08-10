@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakthisubhamohan
-- 👀 I’m interested in Anime, Python and Science
+- 👀 I’m interested in Anime, Python and Books
 - 🌱 I’m currently learning Python and Scratch
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me :Email:  sakthisubhamohan@gmail.com 
